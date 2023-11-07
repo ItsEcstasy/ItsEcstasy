@@ -12,6 +12,8 @@
   <img width="14" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python logo"  />
   <img width="14" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="50" alt="lua logo"  />
+  <img width="14" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="50" alt="bash logo"  />
   <img width="14" />
   <img src="https://cdn.simpleicons.org/go/00ADD8" height="50" alt="go logo"  />
@@ -21,6 +23,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="50" alt="windows8 logo"  />
   <img width="14" />
   <img src="https://icons.iconarchive.com/icons/icons8/windows-8/512/Systems-Mac-Os-icon.png" height="50"  />
+  <img width="14" />
+
   
 </div>
 
