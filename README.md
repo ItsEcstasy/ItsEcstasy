@@ -24,7 +24,7 @@
   
 </div>
 
-## Projects and Contributions
+## Information About My Repositories
 | Community/Project     | Description                                                 |
 |-----------------------|-------------------------------------------------------------|
 | Open Source           | Any open-source projects shared here are either my creations offered for free use or revealed innovations. |
