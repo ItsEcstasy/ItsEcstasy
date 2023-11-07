@@ -1,14 +1,5 @@
-<h1 style="text-align: left;">I'm Ecstasy, also known as Nix.</h1>
-<p style="text-align: left;">Just another a self-taught developer</p>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ItsEcstasy&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ItsEcstasy&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-###
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ItsEcstasy&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&locale=en&hide_border=false)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=ItsEcstasy&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false)
 
 <img align="right" height="150" src="https://avatars.githubusercontent.com/u/59181303?v=4"  />
 
@@ -33,7 +24,14 @@
   
 </div>
 
-###
+## Projects and Contributions
+| Community/Project     | Description                                                 |
+|-----------------------|-------------------------------------------------------------|
+| Open Source           | Any open-source projects shared here are either my creations offered for free use or revealed innovations. |
+| DDoS Relations        | In case of DDoS-related uploads (sources, tools, methods, etc.), they are intended to assist in use of a foundation/backbone in own projects. |
+| Roblox Exploiting     | Any Roblox exploitation-related uploads are either projects I've made to share or projects I've started but stopped working on. |
+
+## Contacts
 
 <div align="left">
   <a href="https://www.instagram.com/vanityvillian/" target="_blank">
@@ -44,10 +42,11 @@
   </a>
 </div>
 
-###
+## My Spotify (dont ask)
+<div align="center">
+  <a href="https://open.spotify.com/user/314itj52g6erekdoearbuq4djrwq">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=314itj52g6erekdoearbuq4djrwq&count=5&unique=true" alt="Spotify recently played"  />
+  </a>
+</div>
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/ItsEcstasy/ItsEcstasy/output/snake.svg" alt="Snake animation" />
-
-###
+#
