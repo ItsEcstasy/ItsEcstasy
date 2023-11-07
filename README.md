@@ -60,4 +60,9 @@
   </a>
 </div>
 
+## woah look at all my tryhackme trophies lol
+<div align="center">
+<img src="https://tryhackme-badges.s3.amazonaws.com/ItsJusNix.png" alt="TryHackMe">
+  </a>
+</div>
 #
