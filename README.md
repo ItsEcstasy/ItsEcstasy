@@ -38,7 +38,7 @@
 ## Contacts
 
 <div align="left">
-  <a href="https://www.instagram.com/vanityvillian/" target="_blank">
+  <a href="https://www.instagram.com/capalot.ecstasy/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Instagram logo" />
   </a>
   <a href="https://discordapp.com/users/itsjusnix/" target="_blank">
