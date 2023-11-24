@@ -32,7 +32,7 @@
 | Community/Project     | Description                                                 |
 |-----------------------|-------------------------------------------------------------|
 | Open Source           | Any open-source projects shared here are either my creations offered for free use or revealed innovations. |
-| DDoS Relations        | In case of DDoS-related uploads (sources, tools, methods, etc.), they are intended to assist in use in your own projects. |
+| DDoS Relations        | In case of DDoS-related uploads (sources, tools, methods, etc.), they are intended to assist in your own projects. |
 
 ## Contacts
 
