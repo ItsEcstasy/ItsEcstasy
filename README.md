@@ -32,8 +32,7 @@
 | Community/Project     | Description                                                 |
 |-----------------------|-------------------------------------------------------------|
 | Open Source           | Any open-source projects shared here are either my creations offered for free use or revealed innovations. |
-| DDoS Relations        | In case of DDoS-related uploads (sources, tools, methods, etc.), they are intended to assist in use of a foundation/backbone in own projects. |
-| Roblox Exploiting     | Any Roblox exploitation-related uploads are either projects I've made to share or projects I've started but stopped working on. |
+| DDoS Relations        | In case of DDoS-related uploads (sources, tools, methods, etc.), they are intended to assist in use in your own projects. |
 
 ## Contacts
 
